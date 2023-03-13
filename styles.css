@@ -263,7 +263,7 @@ header {
   }
 
   .header__right {
-    transform: translateY(10rem);
+    transform: translateY(6rem);
   }
 
   .header__right .btn {
