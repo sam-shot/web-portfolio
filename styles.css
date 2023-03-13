@@ -223,6 +223,10 @@ header {
   .nav__links {
     display: none;
   }
+
+  nav{
+    height: 4.5rem;
+  }
   .nav__menu {
     display: block;
   }
